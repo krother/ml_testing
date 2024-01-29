@@ -3,6 +3,10 @@
 
 In this workshop, you will take prototype ML code in Python and move it towards production.
 
+![freezer](freezer.png)
+
+*penguin testing a freezer*
+
 ## Outline
 
 You will apply the following tools to embed a Machine Learning model in a maintainable software structure:
@@ -219,3 +223,13 @@ Here are some ideas:
 * use a data version control tool
 * use a tool managing model versions like MLFlow
 * use a monitoring tool like Grafana
+
+----
+
+## License
+
+**© 2021 Dr. Kristian Rother**
+
+Usable under the conditions of the Creative Commons Attribution Share-alike License 4.0 (CC-BY-SA 4.0).
+See [creativecommons.org](https://creativecommons.org/licenses/by-sa/4.0/) for details
+
